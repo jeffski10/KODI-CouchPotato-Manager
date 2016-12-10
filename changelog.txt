@@ -1,3 +1,6 @@
+0.0.9 (10.11.2016)
+- Fixes to API call
+
 0.0.8 (29.08.2014)
 - fixed addon (adopt recent CP API changes)
 - simplify addon

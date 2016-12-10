@@ -238,7 +238,7 @@ def ask_profile():
         if selected == -1:
             return
         selected_profile = profiles[selected]
-        profile_id = selected_profile['_id']
+        profile_id = selected_profile['id']
     else:
         profile_id = plugin.get_setting('default_profile', str)
     return profile_id
